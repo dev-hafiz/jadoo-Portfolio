@@ -1,0 +1,146 @@
+/* GOOGLE FOONTS */
+/* VOLKHOV  */
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* POPPINS  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* root are or body */
+body{
+     margin: 0;
+     padding: 0;
+}
+h1{
+     font-family: 'Volkhov', serif;
+     font-weight: bolder;
+}
+
+
+/* HEADER SECTIONS STYLES */
+header {
+     background: url("../images/jadoo-logo/flying-bg-top.png");
+     background-repeat: no-repeat;
+     background-position: right top;
+}
+
+
+/*-----------------
+     MAJOR TRAVEL
+------------------*/
+/* major div */
+.left-col.col {
+     position: relative;
+     top: 107px;
+ }
+/* left row */
+h1.m-title {
+     width: 372px;
+     font-size: 53px;
+     color: #181E48;
+}
+
+button.btn-warning {
+     width: 166px;
+     height: 58px;
+     border-radius: 12px;
+     border: none;
+     outline: none;
+     color: white;
+     font-size: 16px;
+     font-weight: 500;
+ }
+
+ span.play-demo {
+     width: 165px;
+     height: 52px;
+     color: #686D77;
+     margin-left: 44px;
+     font-size: 16px;
+ }
+
+span.desti {
+     color: #DF6951;
+     font-family: 'Poppins', sans-serif;
+     font-weight: 700;
+ }
+ 
+ .left-col.col p {
+     color: #5E6282;
+     font-size: 14px;
+     font-weight: 500;
+     width: 400px;
+ }
+/* right row  */
+.n1 {
+     width: 250px;
+     position: relative;
+     top: 85px;
+     left: -71px;
+ }
+
+.n2 {
+     position: relative;
+     top: -76px;
+     left: -61px;
+ }
+
+ /*-----------------------
+     SERVICES CATEGOIRIES 
+ --------------------------*/
+ .services-catagoreies{
+     background: url(../images/jadoo-logo/cate-bg.png);
+     background-repeat: no-repeat;
+     background-position: right top;
+ }
+
+ .cata-item-card {
+     width: 184px;
+     text-align: center;
+     padding: 10px;
+     background-color: #fff;
+     position: relative;
+     left: 22px;
+     bottom: 30px;
+ }
+
+ .cata-card-item-next{
+      background: url(../images/jadoo-logo/Rectangle\ 157.png);
+      background-repeat: no-repeat;
+      background-position: left bottom;
+ }
+
+ .col.cata-card-item-next {
+     width: 302px;
+     height: 312.91px;
+ }
+
+ h6.cata-t {
+     font-weight: 300;
+     font-size: 20px;
+     color: #1E1D4C;
+     margin-bottom: 15px;
+     margin-top: 29px;
+ }
+ 
+ p.cata-p {
+     font-weight: 500;
+     font-size: 16px;
+     line-height: 26px;
+     color: #5E6282;
+ }
+
+ .cata-spn{
+     font-weight: 600;
+     font-size: 18px;
+     color: #5E6282;
+     margin-top: 80px;
+ }
+
+.c-title{
+     color: #181E48;
+}
+h1.c-title.text-center {
+     margin-bottom: 108px;
+ }
+.cata-item-card.next-card {
+     box-shadow: 0px 100px 80px rgb(0 0 0 / 2%), 0px 64.8148px 46.8519px rgb(0 0 0 / 2%), 0px 38.5185px 25.4815px rgb(0 0 0 / 1%), 0px 20px 13px rgb(0 0 0 / 1%), 0px 8.14815px 6.51852px rgb(0 0 0 / 1%), 0px 1.85185px 3.14815px rgb(0 0 0 / 0%);
+     border-radius: 36px;
+ }
